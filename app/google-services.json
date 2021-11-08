@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111366952486",
+    "project_id": "onlinedailygroceries-9eef7",
+    "storage_bucket": "onlinedailygroceries-9eef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111366952486:android:25c16a7e7fc7d60d28b8e7",
+        "android_client_info": {
+          "package_name": "com.GO.GoBasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111366952486-o8sr6a7jtvenbu2590j9ne4n3jj8aruj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFseBuSy58PaOfuYwddk3TkcIVMos9v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111366952486-o8sr6a7jtvenbu2590j9ne4n3jj8aruj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
